@@ -9,3 +9,5 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
+This project is currently hosted on GitHub Pages: [Triple Peaks Library](https://jsiohn.github.io/se_project_library/)
